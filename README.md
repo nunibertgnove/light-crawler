@@ -1,21 +1,20 @@
-# light-crawler
+# Light Crawler
 
-## Introduction
-A tutorial and examples for building web crawlers using lightweight tools.
+## Overview
+This repository serves as a tutorial and examples for building lightweight web crawlers.
 
 ## Features
-- Easy to follow examples
-- Covers basic crawling techniques
-- Additional resources linked
+- Basic structures for creating a web crawler
+- Examples for various use cases
+- Best practices for lightweight crawling
 
-## Technical Stack
-- Python
-- Requests
+## Technology Stack
+- Python for implementation
+- Markdown for documentation
 
 ## Usage
-1. Review the tutorials
-2. Implement the examples
-3. Create your own crawler based on the provided templates
+Clone this repository to explore examples and follow the tutorial in the `README.md` file.
 
 ## Future Plans
-- Expand the tutorial with advanced topics.
+- Add more example crawlers and use cases.
+- Optimize for performance and scalability.
